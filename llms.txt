@@ -1,0 +1,22 @@
+# Wyatt Brocato
+
+> A PM testing AI on real work. Wyatt Brocato builds practical AI work systems for experienced professionals: rough inputs become work you can stand behind, with context, risk, and approval staying human.
+
+This is the GitHub Pages host root for thewyattbrocato.github.io. It only indexes the project sites hosted under this host. The one main link for Wyatt Brocato is [wyattbrocato.site](https://wyattbrocato.site/), which has the Sunday letter: one practical AI workflow every week, with one workflow, one check, and one test.
+
+## Main site
+
+- [wyattbrocato.site](https://wyattbrocato.site/): the one link. The Sunday letter, five minutes to read, free.
+
+## Project sites on this host
+
+- [AI Deal Finder](https://thewyattbrocato.github.io/ai-deal-finder/): search store pages that were checked ahead of time. Each result shows the shelf price, a plain decision, and a coupon only when that product's own page printed one. It runs in the browser. Source: [ai-deal-finder repository](https://github.com/thewyattbrocato/ai-deal-finder).
+- [Scam First Aid](https://thewyattbrocato.github.io/scamfirstaid-site/): free, private help after a scam, with ordered steps, exact words to say, and family conversation scripts. Nothing typed leaves the browser. The [public repository](https://github.com/thewyattbrocato/scamfirstaid-site) holds the reviewed static site, not the source.
+- [Leverage Library](https://thewyattbrocato.github.io/leverage-library-site/): a sourced, cross-book idea library. Each idea is attributed, paraphrased, and flagged for confidence. The [public repository](https://github.com/thewyattbrocato/leverage-library-site) holds the reviewed static site, not the source.
+- [AI Leverage Field Guide](https://thewyattbrocato.github.io/ai-leverage-field-guide-site/): interactive, role-based workflow guides with local progress tracking and explicit human-review boundaries. The [public repository](https://github.com/thewyattbrocato/ai-leverage-field-guide-site) holds the reviewed static site. As of 2026-10-22 the profile README links only the repository; this live page returned HTTP 200 when checked that day.
+
+## Elsewhere
+
+- [GitHub profile](https://github.com/thewyattbrocato)
+- [GitLab](https://gitlab.com/wcbrocato)
+- [LinkedIn](https://www.linkedin.com/in/wyattbrocato/)
